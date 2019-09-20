@@ -25,7 +25,7 @@ __all__       = ['hidapi']
 __version__   = '1.0.0'
 __copyright__ = 'Copyright (C) 2014 Mark J. Blair, released under GPLv3'
 __pkg_url__   = 'http://www.nf6x.net/tags/pyhidapi/'
-__dl_url__    = 'https://github.com/NF6X/pyhidapi'
+__dl_url__    = 'https://gitlab.com/NF6X_Archive/'
 
 from .hidapi import *
 
